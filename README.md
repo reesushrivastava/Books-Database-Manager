@@ -79,6 +79,6 @@
         Add export functionality to save data in CSV or Excel format.
 ### Screenshots
         (Insert relevant screenshots here to showcase the application UI.)
-        ![alt text](mybooks_mysql.png)
+![alt text](mybooks_mysql.png)
 ### License
         This project is licensed under the MIT License.
